@@ -1,24 +1,6 @@
-# README
+#ウェブ作成の為のサンプルアプリ
+村上の福祉施設でサンプルプロジェクトの立ち上げ
+今後のテンプレートを作る為の練習件本番で使えるアプリを作る
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+・ブートストラップの使い方をマスタ
+・レイアウトを画像の変更等で完結できることを目指す。
